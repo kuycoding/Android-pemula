@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Rumah Adat</string>
+    <string name="rumah_adat">Rumah Adat</string>
+    <string name="from">Asal</string>
+    <string name="cardview">CardView</string>
+    <string name="list">List</string>
+    <string name="description">deskripsi</string>
+    <string name="detail">Detail</string>
+    <string name="share">Share</string>
+    <string name="keterangan">Keterangan</string>
+</resources>
